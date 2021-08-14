@@ -1,0 +1,1 @@
+This document is the release notes for the openEuler 20.03 LTS SP2 release version.
