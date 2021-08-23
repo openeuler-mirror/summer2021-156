@@ -1,0 +1,1 @@
+本文是 openEuler 20.03 LTS SP1版本的发行说明。
